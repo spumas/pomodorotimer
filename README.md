@@ -1,4 +1,4 @@
-# Pomodoro Timer
+# 🍅 Pomodoro Timer
 written in C#
 
 - doesn't have any crazy features
